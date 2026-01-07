@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+
+    <string name="go_to_default_activity">Go to Default Activity</string>
+    <string name="books_crud_application">Books CRUD Application</string>
+    <string name="book_title">Book Title</string>
+    <string name="author_name">Author Name</string>
+    <string name="price">Price</string>
+    <string name="update_book">Update Book</string>
+    <string name="insert_book">Insert Book</string>
+    <string name="delete_book">Delete Book</string>
+    <string name="books_crud_activity">Go to Books CRUD Activity</string>
+    <string name="Q_no_8_activity">Go to Q.No.8 Activity</string>
+    <string name="name2">Name</string>
+    <string name="gender">Gender</string>
+    <string name="email">Email</string>
+    <string name="roll_no">Roll No</string>
+    <string name="address">Address</string>
+    <string name="add_student">Add Student</string>
+    <string name="go_to_student_activity">Go to Student Activity</string>
+    <string name="open_books_crud">Open Books CRUD</string>
+    <string name="open_student_crud">Open Student CRUD</string>
+    <string name="open_book_crud">Open Book CRUD</string>
+    <string name="book_crud_operations">Book CRUD Operations</string>
+    <string name="sbn">SBN</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="price2">Price</string>
+    <string name="insert2">Insert</string>
+    <string name="update2">Update</string>
+    <string name="delete2">Delete</string>
+    <string name="view_all">View All</string>
+    <string name="student_records">Student Records</string>
+    <string name="load_students">Load Students</string>
+    <string name="show_my_location">Show My Location</string>
+    <string name="you">🧍 You</string>
+    <string name="you2">🧍 You</string>
+</resources>
